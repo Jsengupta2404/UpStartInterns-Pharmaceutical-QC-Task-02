@@ -68,11 +68,11 @@ Polarimetry measures the net optical rotation of all optically active substances
 
 No experimental validation results are claimed. The proposed procedure and acceptance criteria require appropriate laboratory verification and scientific justification before routine use.
 
-## 8. Documentation
+## 8. Project Document
 
-The detailed analytical method and validation protocol are available in the `docs/` directory.
+The complete analytical method walkthrough and proposed validation protocol are provided in the PDF document uploaded to this repository.
 
-Supporting data-recording templates are available in the `templates/` directory.
+[View Task 02 – Analytical Method Walkthrough (PDF)](./Task_02_Analytical_Method_Walkthrough.pdf)
 
 ## 9. References
 
